@@ -1,36 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Emmanuel BLONVIA's Blog
 
-You can use the [editor on GitHub](https://github.com/eblonvia/emmanuel-blonvia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Some technical articles on my works very soon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Jekyll, and Markdown
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This site is entirely written in [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) and generated with Jekyll.
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eblonvia/emmanuel-blonvia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We use Jekyll themes .
 
 ### Support or Contact
 
