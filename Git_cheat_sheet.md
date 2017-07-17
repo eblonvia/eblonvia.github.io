@@ -1,5 +1,5 @@
 
-1. To discard all chanes
+# How to discard all changes in a local git repository
 git reset --hard # removes staged and working directory changes
 
  _be very careful with these_.<br>
